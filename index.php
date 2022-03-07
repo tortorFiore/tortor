@@ -142,21 +142,21 @@ if(isset($_POST['btn_contatto'])){
                     <div class="container">
                         <div class="collapse navbar-collapse">
                             <ul class="nav navbar-nav pull-right">
-                                <li id="home1"><a class="smooth-scroll" href="#home" Style="border-bottom:3px solid #25CCF7;hover:3px solid #25CCF7;"><?php echo HOME; ?></a></li>
-                                <!--<li id="about5"><a class="smooth-scroll" href="#about" Style="border-bottom:3px solid #D6A2E8;">About</a></li>-->
-								<li id="obiettivi100"><a class="smooth-scroll" href="#obiettivi" Style="border-bottom:3px solid #fd9644;"><?php echo OUR_GOAL; ?></a></li>
-                                <li id="progetti100"><a class="smooth-scroll" href="#progetti" Style="border-bottom:3px solid #26de81;"><?php echo PROJECTS; ?></a></li>
+                                <li id="home1"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #25CCF7;hover:3px solid #25CCF7;"><?php echo HOME; ?></a></li>
+                                <!--<li id="about5"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #D6A2E8;">About</a></li>-->
+								<li id="obiettivi100"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #fd9644;"><?php echo OUR_GOAL; ?></a></li>
+                                <li id="progetti100"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #26de81;"><?php echo PROJECTS; ?></a></li>
 								<!-- test -->
 
 								<!-- fine test -->
-                                <li id="blog100"><a class="smooth-scroll" href="#blog" Style="border-bottom:3px solid #eb3b5a;"><?php echo BLOG; ?></a></li>
-                                <li id="gallerie100"><a href="<?php echo OUR_GALLERY; ?>" Style="border-bottom:3px solid #8854d0;"><?php echo GALLERY; ?></a></li>
-                                <li id="contatti100"><a href="<?php echo CONTACT_US; ?>" Style="border-bottom:3px solid #fed330;"><?php echo CONTACT; ?></a></li>
+                                <li id="blog100"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #eb3b5a;"><?php echo BLOG; ?></a></li>
+                                <li id="gallerie100"><a href="" Style="border-bottom:3px solid #8854d0;"><?php echo GALLERY; ?></a></li>
+                                <li id="contatti100"><a href="" Style="border-bottom:3px solid #fed330;"><?php echo CONTACT; ?></a></li>
 								<!--<li><a href="https://www.paypal.com/donate?hosted_button_id=FU97LU6XZ83DC" target="_blank" Style="border-bottom:3px solid pink;">Sostienici</a></li>
 								!--<li><a class="smooth-scroll" href="#">Eventi</a></li>-->
-                                <li id="bouton100"><a class="btn btn-warning text-center" href="eventi-tortorini" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;"><?php echo EVENTS; ?></a></li>
-                                <!--<li id="bouton200"><a class="btn btn-success text-center" href="mi-associo-a-tortor" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;">Associati</a></li>-->
-                                <li id="bouton300"><a class="btn btn-primary text-center" href="Donatori-Sostenitori-tortor" title="" role="button" Style="font-weight:300;color:#fff;"><?php echo SUPPORT; ?></a></li>
+                                <li id="bouton100"><a class="btn btn-warning text-center" href="" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;"><?php echo EVENTS; ?></a></li>
+                                <!--<li id="bouton200"><a class="btn btn-success text-center" href="" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;">Associati</a></li>-->
+                                <li id="bouton300"><a class="btn btn-primary text-center" href="" title="" role="button" Style="font-weight:300;color:#fff;"><?php echo SUPPORT; ?></a></li>
                                 <!--<li><a class="btn btn-primary text-center" href="index.php?lang=fr" title="" role="button" Style="font-weight:300;color:#fff;">fr</a></li>-->
                                 <li Style="hover:none;border:none;"><a href="" title="" Style="cursor:none;border:none;"></a></li>
                                 <li Style="hover:none;border:none;"><a href="" title="" Style="cursor:none;border:none;"></a></li>
@@ -178,21 +178,21 @@ if(isset($_POST['btn_contatto'])){
 
                         <div id="navigation-cellulare-content">
                             <ul class="nav">
-                                <li id="home100"><a class="smooth-scroll" href="#home" Style="border-bottom:3px solid #25CCF7;hover:3px solid #25CCF7;font-size:14px;"><?php echo HOME; ?></a></li>
-                                <!--<li id="about500"><a class="smooth-scroll" href="#about" Style="border-bottom:3px solid #D6A2E8;">About</a></li>-->
-								<li id="obiettivi500"><a class="smooth-scroll" href="#obiettivi" Style="border-bottom:3px solid #fd9644;font-size:14px;"><?php echo OUR_GOAL; ?></a></li>
-                                <li id="progetti500"><a class="smooth-scroll" href="#progetti" Style="border-bottom:3px solid #26de81;font-size:14px;"><?php echo PROJECTS; ?></a></li>
+                                <li id="home100"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #25CCF7;hover:3px solid #25CCF7;font-size:14px;"><?php echo HOME; ?></a></li>
+                                <!--<li id="about500"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #D6A2E8;">About</a></li>-->
+								<li id="obiettivi500"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #fd9644;font-size:14px;"><?php echo OUR_GOAL; ?></a></li>
+                                <li id="progetti500"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #26de81;font-size:14px;"><?php echo PROJECTS; ?></a></li>
 								<!-- test -->
 
 								<!-- fine test -->
-                                <li id="blog500"><a class="smooth-scroll" href="#blog" Style="border-bottom:3px solid #eb3b5a;font-size:14px;"><?php echo BLOG; ?></a></li>
-                                <li id="gallerie500"><a href="<?php echo OUR_GALLERY; ?>" Style="border-bottom:3px solid #8854d0;font-size:14px;"><?php echo GALLERY; ?></a></li>
-                                <li id="contatti500"><a href="<?php echo CONTACT_US; ?>" Style="border-bottom:3px solid #fed330;font-size:14px;"><?php echo CONTACT; ?></a></li>
+                                <li id="blog500"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #eb3b5a;font-size:14px;"><?php echo BLOG; ?></a></li>
+                                <li id="gallerie500"><a href="" Style="border-bottom:3px solid #8854d0;font-size:14px;"><?php echo GALLERY; ?></a></li>
+                                <li id="contatti500"><a href="" Style="border-bottom:3px solid #fed330;font-size:14px;"><?php echo CONTACT; ?></a></li>
 								<!--<li><a href="https://www.paypal.com/donate?hosted_button_id=FU97LU6XZ83DC" target="_blank" Style="border-bottom:3px solid pink;">Sostienici</a></li>
 								!--<li><a class="smooth-scroll" href="#">Eventi</a></li>-->
-                                <li><a class="btn btn-warning text-center" href="eventi-tortorini" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;font-size:14px;">Eventi</a></li>
-                                <!--<li><a class="btn btn-success" href="mi-associo-a-tortor" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;">Associati</a></li>-->
-                                <li><a class="btn btn-primary" href="Donatori-Sostenitori-tortor" title="" role="button" Style="font-weight:300;color:#fff;font-size:14px;"><?php echo SUPPORT; ?></a></li>
+                                <li><a class="btn btn-warning text-center" href="" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;font-size:14px;">Eventi</a></li>
+                                <!--<li><a class="btn btn-success" href="" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;">Associati</a></li>-->
+                                <li><a class="btn btn-primary" href="" title="" role="button" Style="font-weight:300;color:#fff;font-size:14px;"><?php echo SUPPORT; ?></a></li>
                                 <li>
                                 <a href="index.php?lang=fr"><img id="bandiera_francia" src="img/logo/logo_francia.jpg" alt="lingua francese" class="img-responsive" width="22" height="16" Style="text-align:center;margin-right:auto;margin-left:auto;"></a>
 
@@ -1104,22 +1104,22 @@ if(isset($_POST['invio_newsletter'])){
                     <div class="footer-top" Style="position:relative;top:-5px;">
                         <ul class="footer-list">
                             <li>
-                                <a href="<?php echo CULTURAL_CENTER; ?> "><?php echo CULTURAL_CENTER; ?></a>
+                                <a href=""><?php echo CULTURAL_CENTER; ?></a>
                             </li>
                             <li>
-                            <a href="shop-solidale-Association-tortor">Shop Solidale</a>
+                            <a href="">Shop Solidale</a>
                             
                             </li>
                         </ul>
                         <ul class="footer-list">
                             <li>
-                            <a href="<?php echo CONTACT_US; ?>"><?php echo CONTACT; ?></a>
+                            <a href=""><?php echo CONTACT; ?></a>
                             </li>
                             <li>
-                                <a href="Donatori-Sostenitori-tortor"><?php echo SUPPORT; ?></a>
+                                <a href=""><?php echo SUPPORT; ?></a>
                             </li>
                             <li>
-                                <a href="menzioni-legali"><?php echo LEGAL_MENTION; ?></a>
+                                <a href=""><?php echo LEGAL_MENTION; ?></a>
                             </li>
                         </ul>
                     </div>
