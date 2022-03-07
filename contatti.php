@@ -358,16 +358,7 @@ if(isset($_POST['invio_newsletter'])){
 	   $insert->bindParam(':email_utente', $email);
        if($insert->execute()){
         $message_newsletter = 'success';
-        //include_once'administration/core/init.php';
-        //test
-        //$email  = $_POST['txt_mail_collab'];
-		//$message  = 'Grazie della registrazione. Ti teniamo informato per i progetti e attvità dell\'associazione tortor.<br /><a href="https://www.paypal.com/donate/?hosted_button_id=FU97LU6XZ83DC" target=_blank>Sostienici</a>';
-		//$subject = 'Collaborazione';
-       // $headers = 'From: Associazione TorTor <administrazione@associazionetortor.com>' . "\r\n";
-       // $headers .= 'MIME-Version: 1.0' . "\r\n";
-        //$headers .= 'Content-type: text/html; charset=utf-8';
-		//$verifyObj->sendToMail($email, $message, $subject, $headers);
-        //fine test
+        
     }else{
         $errormsg_newsletter = 'error';
     }; 
