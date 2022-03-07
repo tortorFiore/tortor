@@ -152,7 +152,7 @@ if(isset($_POST['btn_contatto'])){
                                 <li id="blog100"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #eb3b5a;"><?php echo BLOG; ?></a></li>
                                 <li id="gallerie100"><a href="" Style="border-bottom:3px solid #8854d0;"><?php echo GALLERY; ?></a></li>
                                 <li id="contatti100"><a href="" Style="border-bottom:3px solid #fed330;"><?php echo CONTACT; ?></a></li>
-								<!--<li><a href="https://www.paypal.com/donate?hosted_button_id=FU97LU6XZ83DC" target="_blank" Style="border-bottom:3px solid pink;">Sostienici</a></li>
+								<!--<li><a href="" target="_blank" Style="border-bottom:3px solid pink;">Sostienici</a></li>
 								!--<li><a class="smooth-scroll" href="#">Eventi</a></li>-->
                                 <li id="bouton100"><a class="btn btn-warning text-center" href="" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;"><?php echo EVENTS; ?></a></li>
                                 <!--<li id="bouton200"><a class="btn btn-success text-center" href="" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;">Associati</a></li>-->
@@ -188,7 +188,7 @@ if(isset($_POST['btn_contatto'])){
                                 <li id="blog500"><a class="smooth-scroll" href="" Style="border-bottom:3px solid #eb3b5a;font-size:14px;"><?php echo BLOG; ?></a></li>
                                 <li id="gallerie500"><a href="" Style="border-bottom:3px solid #8854d0;font-size:14px;"><?php echo GALLERY; ?></a></li>
                                 <li id="contatti500"><a href="" Style="border-bottom:3px solid #fed330;font-size:14px;"><?php echo CONTACT; ?></a></li>
-								<!--<li><a href="https://www.paypal.com/donate?hosted_button_id=FU97LU6XZ83DC" target="_blank" Style="border-bottom:3px solid pink;">Sostienici</a></li>
+								<!--<li><a href="" target="_blank" Style="border-bottom:3px solid pink;">Sostienici</a></li>
 								!--<li><a class="smooth-scroll" href="#">Eventi</a></li>-->
                                 <li><a class="btn btn-warning text-center" href="" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;font-size:14px;">Eventi</a></li>
                                 <!--<li><a class="btn btn-success" href="" title="" role="button" Style="font-weight:300;color:#fff;margin-right:10px;">Associati</a></li>-->
@@ -1160,8 +1160,8 @@ if(isset($_POST['invio_newsletter'])){
     <!-- Counter -->
     <script src="js/counter/jquery.counterup.min.js"></script>
     <!-- Google Map JS -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfaUe1QpEduDR7EejvIDZnHKF0C7Q9Uws"></script>
-    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVVqTymQgZ8ojE8nWJdZX5L5P6WPXwA8g"></script>-->
+    <script src="https://maps.googleapis.com/maps/api/js?key="></script>
+    <!--<script src="https://maps.googleapis.com/maps/api/js?key="></script>-->
     <!-- Easing -->
     <script src="js/easing/jquery.easing.1.3.min.js"></script>
     <!-- WOW JS -->
