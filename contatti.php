@@ -470,8 +470,8 @@ if(isset($_POST['invio_newsletter'])){
     <!-- Counter -->
     <script src="js/counter/jquery.counterup.min.js"></script>
     <!-- Google Map JS -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfaUe1QpEduDR7EejvIDZnHKF0C7Q9Uws"></script>
-    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVVqTymQgZ8ojE8nWJdZX5L5P6WPXwA8g"></script>-->
+    <script src="https://maps.googleapis.com/maps/api/js?key="></script>
+    <!--<script src="https://maps.googleapis.com/maps/api/js?key="></script>-->
     <!-- Easing -->
     <script src="js/easing/jquery.easing.1.3.min.js"></script>
     <!-- WOW JS -->
